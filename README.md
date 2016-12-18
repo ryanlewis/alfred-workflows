@@ -3,4 +3,4 @@
 Some Alfred workflows I find useful.
 
 ## Show what's currently playing on Spotify
-[Download](raw/master/Show whats currently playing on Spotify.alfredworkflow)
+[Download](https://raw.githubusercontent.com/ryanlewis/alfred-workflows/master/Show whats currently playing on Spotify.alfredworkflow)
